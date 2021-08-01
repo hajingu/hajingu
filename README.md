@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hajingu
-- 👀 I’m interested in hacking instagram
+- 👀 I’m interested in hacking 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me hajinguh@gmail.com
